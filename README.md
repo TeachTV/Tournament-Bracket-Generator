@@ -1,2 +1,2 @@
-# Tournament-Bracket
+# Tournament-Bracket-Generator
 Tournament Bracket Generator
